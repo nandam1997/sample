@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-15T12:52:44 IST" name="Default suite" finished-at="2022-09-15T12:54:42 IST" duration-ms="118137">
+    <groups>
+    </groups>
+    <test started-at="2022-09-15T12:52:44 IST" name="Default test" finished-at="2022-09-15T12:54:42 IST" duration-ms="118137">
+      <class name="my.sixth.project6.RedBus">
+        <test-method is-config="true" signature="driver_open()[pri:0, instance:my.sixth.project6.RedBus@323b36e0]" started-at="2022-09-15T12:52:44 IST" name="driver_open" finished-at="2022-09-15T12:53:10 IST" duration-ms="25741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_open -->
+        <test-method signature="Netflix_page()[pri:0, instance:my.sixth.project6.RedBus@323b36e0]" started-at="2022-09-15T12:53:10 IST" name="Netflix_page" finished-at="2022-09-15T12:53:39 IST" duration-ms="29024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Netflix_page -->
+        <test-method signature="aha_page()[pri:0, instance:my.sixth.project6.RedBus@323b36e0]" started-at="2022-09-15T12:53:39 IST" name="aha_page" finished-at="2022-09-15T12:54:14 IST" duration-ms="35344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aha_page -->
+        <test-method signature="redbus_page()[pri:0, instance:my.sixth.project6.RedBus@323b36e0]" started-at="2022-09-15T12:54:14 IST" name="redbus_page" finished-at="2022-09-15T12:54:38 IST" duration-ms="24041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redbus_page -->
+        <test-method is-config="true" signature="close_page()[pri:0, instance:my.sixth.project6.RedBus@323b36e0]" started-at="2022-09-15T12:54:38 IST" name="close_page" finished-at="2022-09-15T12:54:42 IST" duration-ms="3697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_page -->
+      </class> <!-- my.sixth.project6.RedBus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
